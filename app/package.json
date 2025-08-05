@@ -1,0 +1,16 @@
+{
+  "name": "desafio-nginx",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for the Full Cycle challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
